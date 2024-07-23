@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atagstro.github.io/sitemap
+Sitemap: https://atagstro.github.io/app/sitemap
+Sitemap: https://atagstro.github.io/assets/sitemap
+Sitemap: https://atagstro.github.io/css/sitemap
+Sitemap: https://atagstro.github.io/includes/sitemap
+Sitemap: https://atagstro.github.io/item/sitemap
+Sitemap: https://atagstro.github.io/src/sitemap
